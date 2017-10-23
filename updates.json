@@ -1,7 +1,7 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/edwin0602/mynewtest/releases/download/win32-x64-prod-v1.0.7",
-    "install": "https://github.com/edwin0602/mynewtest/releases/download/win32-x64-prod-v1.0.7/atlas-tickets-electron.Setup.1.0.7.exe",
-    "version": "1.0.7"
+    "update": "https://github.com/edwin0602/mynewtest/releases/download/win32-x64-prod-v1.0.8",
+    "install": "https://github.com/edwin0602/mynewtest/releases/download/win32-x64-prod-v1.0.8/atlas-tickets-electron.Setup.1.0.8.exe",
+    "version": "1.0.8"
   }
 }
