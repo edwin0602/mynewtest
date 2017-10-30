@@ -1,7 +1,7 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/edwin0602/mynewtest/releases/download/win32-x64-prod-v1.0.14",
-    "install": "https://github.com/edwin0602/mynewtest/releases/download/win32-x64-prod-v1.0.14/Atlas.Tickets.Setup.1.0.14.exe",
-    "version": "1.0.14"
+    "update": "https://github.com/edwin0602/mynewtest/releases/download/win32-x64-prod-v1.0.15",
+    "install": "https://github.com/edwin0602/mynewtest/releases/download/win32-x64-prod-v1.0.15/Atlas.Tickets.Setup.1.0.15.exe",
+    "version": "1.0.15"
   }
 }
